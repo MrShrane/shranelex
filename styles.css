@@ -1,0 +1,32 @@
+html{
+    background: black;
+}
+
+.a1{
+    position: relative;
+    margin-left: 200px;
+    display: flex;
+    gap: 280px;
+    font-family: 'Pacifico', cursive;
+    font-size: 320%;
+    color: aliceblue;
+}
+.a2{
+    position:relative; 
+    text-align: center;
+    margin-left: 100px;
+}
+#a3{
+    margin-top: -50px;
+    margin-left: 40px;
+}
+#a4{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    height: 300%;
+    width: 100%;
+}
+#cyan {
+    color: aqua;
+}
